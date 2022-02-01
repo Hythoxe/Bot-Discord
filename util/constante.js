@@ -57,6 +57,14 @@ const MESSAGES = {
                 usage: '<nom_de_l\'anime>',
                 args: true
             },
+            MANGA: {
+                name: 'manga',
+                aliases: ['manga', 'm'],
+                category: 'misc',
+                description: 'Renvoie les infos du site anilist du manga passé en argument',
+                usage: '<nom_du_manga>',
+                args: true
+            },
         }
     }
 }
