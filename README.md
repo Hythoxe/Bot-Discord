@@ -20,6 +20,7 @@ Prérequis:
 - Nodejs
 - discord.js
 - graphql
+- node-fetch@2.6.1
 
 - vous aurez besoin aussi du token de votre bot à récupérer dans la section "bot" juste en dessous du nom à ajouter dans config.json.
 
